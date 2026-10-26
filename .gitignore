@@ -1,1 +1,11 @@
 .venv/
+
+# Python generated files
+__pycache__/
+*.py[cod]
+
+# Local virtual environment
+.venv/
+
+# Local dashboard backup
+dashboard/app_backup.py
